@@ -1,0 +1,39 @@
+Links Mechanics:
+
+For derivation od formula for centroid of a quarter of a circle, go to the following link
+https://www.mathalino.com/reviewer/engineering-mechanics/706-centroiud-quarter-circle-integration
+
+For derivation of formula for centroid of semicircle refer the video lecture
+https://m.youtube.com/watch?v=jkm8TbUt5H4
+
+To understand what is Varignon’s theorem of moments click the following link
+https://m.youtube.com/watch?v=UABd38mEzsw
+
+Refer this for Varignon theorem proof
+https://m.youtube.com/watch?v=mB7hu0V2304
+
+
+https://www.geogebra.org/m/nbexg5v9
+Solve this problem. It consists of a triangle and a rectangle. Remember that the centroid of triangle is located at 1/3h. Try to show the distances to centroids of individual shapes from the reference axes in a rough sketch
+
+https://owlcation.com/stem/How-to-Solve-Centroids-of-Compound-Shapes
+Solve problems 1 and 2 from this website. Observe that the problem 1 has been solved by dividing the area into three basic shapes. Can you solve this considering it as a cut out?
+
+https://calcresource.com/centroid-how-to-find.html
+Solve examples 3 and 4 from this website. The units are in inches. The procedure doesn’t change
+
+Video presentation on MI. Click on the link to open
+https://drive.google.com/file/d/14O820KM2EGVgRpxZXnb7vMILMjJ1r_Ce/view?usp=sharing
+
+Video ppt on MI numerical
+https://drive.google.com/file/d/1-cA8AagJWe6HI9Yept1UTUdJ8x9d4nYq/view?usp=sharing
+
+Friction Theory
+https://m.youtube.com/playlist?list=PLxTKIR49WBrckfM4SFBrmv7QOlqFjTIsP
+
+Problems on work, energy and power
+https://drive.google.com/file/d/1rSVWY67aoKuWlOul5uS-tnpphlM9G-t2/view?usp=sharing
+
+https://drive.google.com/file/d/1JbFw_hO5FN7iu-ZIwwKG2G9KZI6r5kH_/view?usp=sharing
+ Problems on work energy principle. Skip the first 1 min 04 seconds of the video
+
